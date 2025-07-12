@@ -1,0 +1,97 @@
+/* Navbar.css */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #00b0f0; /* Blue background */
+  padding: 10px 20px;
+  border-radius: 30px;
+  margin: 20px;
+  transition: background-color 0.3s ease;
+}
+
+.navbar:hover {
+  background-color: #0091c6; /* Darker blue on hover */
+}
+
+/* Navbar.css */
+.logo {
+  font-family: 'Pacifico', cursive; /* Chọn font Pacifico từ Google Fonts */
+  font-size: 30px;
+  color: #333;
+  margin: 0;
+  margin-left: 20px;
+  transition: color 0.3s ease;
+}
+
+
+.logo:hover {
+  color: #ffffff; /* Change color to white when hovering over logo */
+  animation: bounce 0.5s ease forwards; /* Add bounce and scale animation */
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  border-radius: 25px;
+  padding: 5px 10px;
+  margin-right: 20px;
+  transition: background-color 0.3s ease;
+}
+
+.search-container:hover {
+  background-color: #f1f1f1; /* Light gray background on hover */
+  animation: bounce 0.5s ease; /* Add bounce animation */
+}
+
+.search-input {
+  border: none;
+  outline: none;
+  padding: 10px;
+  font-family: 'Pacifico', cursive;
+  font-size: 16px;
+  border-radius: 25px;
+  width: 250px;
+  transition: width 0.3s ease;
+}
+
+.search-input:focus {
+  width: 300px; /* Expand input field on focus */
+}
+
+.search-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+  transition: transform 0.2s ease;
+}
+
+.search-btn:hover {
+  transform: scale(1.2); /* Slightly enlarge the button on hover */
+  animation: bounce 0.5s ease; /* Add bounce animation */
+}
+
+.search-btn i {
+  font-size: 18px;
+  color: #333;
+  transition: color 0.3s ease;
+}
+
+.search-btn:hover i {
+  color: #00b0f0; /* Change icon color on hover */
+}
+
+/* Keyframes for bounce and scale */
+@keyframes bounce {
+  0% {
+    transform: translateY(0) scale(1); /* Normal size and position */
+  }
+  50% {
+    transform: translateY(-10px) scale(1.2); /* Nẩy lên và to ra */
+  }
+  100% {
+    transform: translateY(0) scale(1.1); /* Về vị trí ban đầu nhưng vẫn to ra một chút */
+  }
+}

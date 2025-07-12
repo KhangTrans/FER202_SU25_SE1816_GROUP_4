@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Giới thiệu về React",
+      "content": "React là một thư viện JavaScript...",
+      "author": "Minh",
+      "tags": ["react", "javascript"],
+      "createdAt": "2025-07-11",
+      "imageUrl": "./images/zalo.jpg"
+    }
+  ]
+}

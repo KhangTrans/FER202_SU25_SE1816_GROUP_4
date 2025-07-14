@@ -7,7 +7,11 @@ const NavBar = ({ setSearchQuery }) => {
     <nav className="navbar navbar-expand-md navbar-light bg-light">
       <div className="container-fluid">
         {/* Logo */}
-        <h1 className="navbar-brand">Mini Blog</h1>
+        <h1 className="navbar-brand">
+          <Link className="nav-link" to="/">
+            Mini Blog
+          </Link>
+        </h1>
 
         {/* Toggler button for mobile view */}
         <button

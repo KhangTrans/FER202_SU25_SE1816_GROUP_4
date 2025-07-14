@@ -119,5 +119,22 @@
       "content": "<p>Mini Blog là nền tảng để bạn chia sẻ những câu chuyện từ chính cuộc sống của mình. Bạn có thể viết về những chuyến đi, những trải nghiệm mới mẻ, hoặc những suy nghĩ thầm kín của bạn.</p> <p>Với Mini Blog, bạn không chỉ có thể viết bài mà còn có thể thêm hình ảnh vào bài viết của mình, giúp bài viết của bạn trở nên sống động và dễ hiểu hơn. Đó là cách giúp bạn truyền tải thông điệp một cách rõ ràng và ấn tượng.</p> <p>Hãy tham gia Mini Blog và cùng chia sẻ những câu chuyện đầy cảm hứng ngay hôm nay!</p>",
       "images": "/images/8.png"
     }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "123456"
+    },
+    {
+      "id": "2ec7",
+      "username": "khang",
+      "password": "1234"
+    },
+    {
+      "id": "1540",
+      "username": "khang1",
+      "password": "1234"
+    }
   ]
 }

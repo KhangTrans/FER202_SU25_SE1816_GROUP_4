@@ -36,7 +36,7 @@ const Home = () => {
   return (
     <div className="home">
       {currentPosts.map((homepage) => (
-        <div key={homepage.id}>
+        <div key={homepage.id} className="fade-in-item">
           <h1 className="mt-3 title">{homepage.title}</h1>
           <div className="row container mt-5">
             <div className="col-md-6">

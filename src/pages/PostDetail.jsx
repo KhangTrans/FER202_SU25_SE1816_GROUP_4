@@ -23,11 +23,11 @@ const PostDetail = () => {
 
     return (
         <div className="post-detail-container">
-            <div className="post-back-btn-wrap">
+            {/* <div className="post-back-btn-wrap">
                 <button className="post-back-btn" onClick={() => navigate(-1)}>
                     Quay lại
                 </button>
-            </div>
+            </div> */}
             <h2 className="post-title-detail">{post.title}</h2>
             <img src={`${post.imageUrl}`} alt={post.title} className="post-detail-image" />
 

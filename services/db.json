@@ -54,6 +54,70 @@
       "name": "HK15",
       "content": "BaoHoangbeobeo\n",
       "time": "7/14/2025, 8:42:56 AM"
+    },
+    {
+      "id": "95bf",
+      "postId": "2",
+      "name": "Ẩn danh",
+      "content": "hhhhh",
+      "time": "7/14/2025, 6:48:47 PM"
+    },
+    {
+      "id": "59a8",
+      "postId": "2",
+      "name": "ee",
+      "content": "eeee",
+      "time": "7/14/2025, 6:48:58 PM"
+    }
+  ],
+  "home": [
+    {
+      "id": "1",
+      "title": "Khám phá thế giới của Mini Blog - Nơi chia sẻ câu chuyện của bạn!",
+      "content": "<p>Mini Blog là không gian lý tưởng cho những ai yêu thích việc chia sẻ suy nghĩ và cảm nhận của mình. Bạn có thể dễ dàng viết và chia sẻ những bài blog cá nhân về mọi chủ đề trong cuộc sống.</p> <p>Với giao diện đơn giản, bạn có thể tạo và quản lý bài viết của mình chỉ trong vài bước. Đặc biệt, bạn còn có thể thêm hình ảnh vào bài viết, giúp câu chuyện của bạn trở nên sinh động và thú vị hơn.</p> <p>Mini Blog không chỉ là nơi chia sẻ suy nghĩ, mà còn là không gian ghi lại những khoảnh khắc đáng nhớ trong hành trình cuộc sống của bạn. Hãy cùng tạo nên những bài viết độc đáo, chia sẻ câu chuyện của bạn với cộng đồng!</p>",
+      "images": "/images/mini_blog1.png"
+    },
+    {
+      "id": "2",
+      "title": "Bắt đầu hành trình viết blog với Mini Blog - Đơn giản và mạnh mẽ!",
+      "content": "<p>Mini Blog giúp bạn dễ dàng tạo và chia sẻ các bài blog, cho phép bạn truyền tải những câu chuyện của mình một cách nhanh chóng và dễ dàng. Tại đây, bạn có thể chia sẻ mọi điều về cuộc sống, từ những câu chuyện nhỏ đến những bài viết sâu sắc.</p> <p>Hãy tạo một không gian riêng để ghi lại những khoảnh khắc và cảm xúc của bạn. Bạn còn có thể tích hợp hình ảnh vào bài viết, làm cho câu chuyện của mình thêm phần thú vị và sinh động hơn.</p> <p>Mini Blog sẽ là người bạn đồng hành tuyệt vời trong hành trình chia sẻ và sáng tạo nội dung của bạn. Cùng khám phá ngay hôm nay!</p>",
+      "images": "/images/2.png"
+    },
+    {
+      "id": "3",
+      "title": "Viết blog và chia sẻ câu chuyện cuộc sống cùng Mini Blog",
+      "content": "<p>Mini Blog là nền tảng hoàn hảo để bạn chia sẻ những câu chuyện, suy nghĩ và cảm xúc của mình. Được thiết kế đơn giản nhưng mạnh mẽ, Mini Blog giúp bạn dễ dàng đăng tải những bài blog hàng ngày, cùng với những bức ảnh đẹp để làm cho câu chuyện của bạn thêm phần sinh động.</p> <p>Với Mini Blog, bạn không cần phải lo lắng về việc quản lý nội dung phức tạp. Giao diện người dùng của chúng tôi thân thiện và dễ sử dụng, giúp bạn tạo bài viết và thêm hình ảnh một cách nhanh chóng.</p> <p>Chia sẻ suy nghĩ của bạn với mọi người và ghi lại những khoảnh khắc tuyệt vời của cuộc sống trên Mini Blog!</p>",
+      "images": "/images/3.png"
+    },
+    {
+      "id": "4",
+      "title": "Mini Blog - Cùng chia sẻ những câu chuyện đặc biệt mỗi ngày",
+      "content": "<p>Mini Blog không chỉ là một nền tảng để bạn viết, mà còn là nơi bạn có thể tìm thấy sự kết nối với những người có chung sở thích. Hãy tạo một bài viết về bất kỳ điều gì bạn quan tâm và chia sẻ những suy nghĩ của mình với cộng đồng.</p> <p>Đặc biệt, Mini Blog còn cho phép bạn tích hợp hình ảnh vào bài viết của mình, giúp truyền tải thông điệp một cách sinh động hơn. Hãy thử ngay hôm nay và tạo những bài viết ấn tượng với hình ảnh của riêng bạn.</p> <p>Mini Blog sẽ là nơi lý tưởng để bạn lưu giữ những câu chuyện, chia sẻ những điều thú vị và tạo ra những bài blog đầy cảm hứng!</p>",
+      "images": "/images/4.png"
+    },
+    {
+      "id": "5",
+      "title": "Cùng nhau khám phá Mini Blog - Nơi mỗi câu chuyện đều đáng quý",
+      "content": "<p>Mini Blog là nơi để bạn chia sẻ những câu chuyện của chính mình. Bạn có thể viết về những điều bạn trải nghiệm trong cuộc sống, từ những chuyến đi đến những cảm xúc khó quên, và chúng tôi sẽ giúp bạn truyền tải chúng đến cộng đồng.</p> <p>Mini Blog cung cấp giao diện dễ sử dụng để bạn có thể nhanh chóng đăng tải bài viết và thêm hình ảnh. Hãy để chúng tôi giúp bạn tạo nên những câu chuyện đặc biệt!</p> <p>Tham gia Mini Blog để chia sẻ những câu chuyện đáng nhớ và kết nối với cộng đồng yêu thích viết lách!</p>",
+      "images": "/images/5.png"
+    },
+    {
+      "id": "6",
+      "title": "Mini Blog - Nơi lưu giữ những khoảnh khắc đẹp của bạn",
+      "content": "<p>Mini Blog giúp bạn ghi lại những khoảnh khắc đáng nhớ trong cuộc sống, từ những trải nghiệm hàng ngày đến những bài viết sâu sắc hơn. Với Mini Blog, bạn có thể dễ dàng chia sẻ những suy nghĩ của mình và làm cho câu chuyện thêm phần sinh động với hình ảnh.</p> <p>Chúng tôi mang đến một nền tảng thân thiện với người dùng, giúp bạn dễ dàng tạo bài viết và chia sẻ với mọi người. Hãy bắt đầu ngay hôm nay và tạo ra những bài blog độc đáo của riêng bạn!</p> <p>Mini Blog sẽ là người bạn đồng hành lý tưởng trên hành trình viết lách và chia sẻ những khoảnh khắc đáng nhớ.</p>",
+      "images": "/images/6.png"
+    },
+    {
+      "id": "7",
+      "title": "Khám phá Mini Blog - Chia sẻ câu chuyện cuộc sống mỗi ngày",
+      "content": "<p>Mini Blog là nơi lý tưởng để bạn viết về những điều bạn yêu thích, chia sẻ những suy nghĩ, cảm nhận, và những khoảnh khắc đáng nhớ trong cuộc sống của bạn.</p> <p>Với nền tảng dễ sử dụng, bạn có thể tạo bài viết nhanh chóng và thêm hình ảnh để làm cho bài viết thêm sinh động. Chúng tôi cung cấp một không gian an toàn và thân thiện để bạn thoải mái sáng tạo và chia sẻ những điều quan trọng đối với bạn.</p> <p>Hãy cùng tham gia Mini Blog và khám phá thế giới của những câu chuyện đầy cảm xúc!</p>",
+      "images": "/images/7.png"
+    },
+    {
+      "id": "8",
+      "title": "Chia sẻ những câu chuyện độc đáo với Mini Blog",
+      "content": "<p>Mini Blog là nền tảng để bạn chia sẻ những câu chuyện từ chính cuộc sống của mình. Bạn có thể viết về những chuyến đi, những trải nghiệm mới mẻ, hoặc những suy nghĩ thầm kín của bạn.</p> <p>Với Mini Blog, bạn không chỉ có thể viết bài mà còn có thể thêm hình ảnh vào bài viết của mình, giúp bài viết của bạn trở nên sống động và dễ hiểu hơn. Đó là cách giúp bạn truyền tải thông điệp một cách rõ ràng và ấn tượng.</p> <p>Hãy tham gia Mini Blog và cùng chia sẻ những câu chuyện đầy cảm hứng ngay hôm nay!</p>",
+      "images": "/images/8.png"
     }
   ]
 }

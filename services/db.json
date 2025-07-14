@@ -1,13 +1,59 @@
 {
   "posts": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Giới thiệu về React",
       "content": "React là một thư viện JavaScript...",
       "author": "Minh",
-      "tags": ["react", "javascript"],
+      "tags": [
+        "react",
+        "javascript"
+      ],
       "createdAt": "2025-07-11",
-      "imageUrl": "./images/zalo.jpg"
+      "imageUrl": "/images/zalo.jpg",
+      "postDetail": "React là một thư viện JavaScript mã nguồn mở được phát triển bởi Facebook, dùng để xây dựng giao diện người dùng (UI) cho các ứng dụng web. React cho phép phát triển các component độc lập, tái sử dụng và cập nhật hiệu quả nhờ vào cơ chế Virtual DOM. Điểm mạnh của React là khả năng xây dựng SPA (Single Page Application) với hiệu năng cao, tổ chức code rõ ràng theo từng thành phần (component), và cộng đồng hỗ trợ lớn mạnh. React được sử dụng rộng rãi trong các dự án front-end hiện đại, từ website cá nhân đến các hệ thống doanh nghiệp lớn."
+    },
+    {
+      "id": "2",
+      "title": "Giới thiệu về React",
+      "content": "React là một thư viện JavaScript...",
+      "author": "Minh",
+      "tags": [
+        "react",
+        "javascript"
+      ],
+      "createdAt": "2025-07-11",
+      "imageUrl": "/images/zalo.jpg",
+      "postDetail": "React là một thư viện JavaScript mã nguồn mở được phát triển bởi Facebook, dùng để xây dựng giao diện người dùng (UI) cho các ứng dụng web. React cho phép phát triển các component độc lập, tái sử dụng và cập nhật hiệu quả nhờ vào cơ chế Virtual DOM. Điểm mạnh của React là khả năng xây dựng SPA (Single Page Application) với hiệu năng cao, tổ chức code rõ ràng theo từng thành phần (component), và cộng đồng hỗ trợ lớn mạnh. React được sử dụng rộng rãi trong các dự án front-end hiện đại, từ website cá nhân đến các hệ thống doanh nghiệp lớn."
+    },
+    {
+      "id": "3",
+      "title": "Giới thiệu về React",
+      "content": "React là một thư viện JavaScript...",
+      "author": "Minh",
+      "tags": [
+        "react",
+        "javascript"
+      ],
+      "createdAt": "2025-07-11",
+      "imageUrl": "/images/zalo.jpg",
+      "postDetail": "React là một thư viện JavaScript mã nguồn mở được phát triển bởi Facebook, dùng để xây dựng giao diện người dùng (UI) cho các ứng dụng web. React cho phép phát triển các component độc lập, tái sử dụng và cập nhật hiệu quả nhờ vào cơ chế Virtual DOM. Điểm mạnh của React là khả năng xây dựng SPA (Single Page Application) với hiệu năng cao, tổ chức code rõ ràng theo từng thành phần (component), và cộng đồng hỗ trợ lớn mạnh. React được sử dụng rộng rãi trong các dự án front-end hiện đại, từ website cá nhân đến các hệ thống doanh nghiệp lớn."
+    }
+  ],
+  "comments": [
+    {
+      "id": "41f8",
+      "postId": "2",
+      "name": "Ẩn danh",
+      "content": "test\n",
+      "time": "7/13/2025, 4:22:28 PM"
+    },
+    {
+      "id": "781e",
+      "postId": "1",
+      "name": "HK15",
+      "content": "BaoHoangbeobeo\n",
+      "time": "7/14/2025, 8:42:56 AM"
     }
   ]
 }

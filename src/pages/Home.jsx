@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 import "./Home.css";
 
 const Home = () => {
@@ -35,6 +36,9 @@ const Home = () => {
                 />
               </div>
               <p className="post-description">{post.content}</p>
+              <Link to={`/post/${post.id}`}>
+                <button className="detail-btn">Chi tiết</button>
+              </Link>
             </div>
           </div>
         ))}

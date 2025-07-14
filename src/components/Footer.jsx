@@ -9,7 +9,7 @@ const Footer = () => {
         <p className="footer-text">Group-4 Class: SE1816 Mentor: ThanhNG4</p>
         <div className="footer-qr">
           <img
-            src="./images/zalo.jpg"
+            src="/images/zalo.jpg"
             alt="Zalo QR Code"
             className="footer-qr-img"
           />

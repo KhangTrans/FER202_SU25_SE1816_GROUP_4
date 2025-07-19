@@ -15,7 +15,7 @@
 }
 
 /* Navbar.css */
-.logo {
+.navbar-brand {
   font-family: 'Pacifico', cursive; /* Chọn font Pacifico từ Google Fonts */
   font-size: 30px;
   color: #333;
@@ -25,7 +25,7 @@
 }
 
 
-.logo:hover {
+.navbar-brand:hover {
   color: #ffffff; /* Change color to white when hovering over logo */
   animation: bounce 0.5s ease forwards; /* Add bounce and scale animation */
 }
@@ -81,6 +81,28 @@
 
 .search-btn:hover i {
   color: #00b0f0; /* Change icon color on hover */
+}
+.nav-link{
+  font-family: 'Pacifico', cursive;
+  font-weight: bold;
+}
+a{
+    color: white;
+
+}
+.nav-pills .nav-link {
+  font-size: 18px;
+  padding: 10px 20px;
+}
+
+.nav-pills .nav-link:hover {
+  background-color: #dee1e4;
+  color: white;
+}
+
+.nav-pills .nav-item.active .nav-link {
+  background-color: #28a745;
+  color: white;
 }
 
 /* Keyframes for bounce and scale */

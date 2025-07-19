@@ -1,0 +1,55 @@
+/* EditPost.css */
+.edit-post-container {
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input,
+textarea {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+button {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.image-preview {
+  margin-top: 10px;
+}
+
+.image-preview img {
+  max-width: 200px;
+  height: auto;
+  border-radius: 5px;
+}

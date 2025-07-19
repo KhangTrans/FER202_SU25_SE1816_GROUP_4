@@ -1,0 +1,35 @@
+.title {
+  font-size: 30px;
+  font-weight: bold;
+    font-family: 'Pacifico', cursive;
+}
+img {
+  width: 100%;
+  border-radius: 20px;
+}
+img:hover{
+    transform: scale(1.1);
+}
+p {
+  text-align: start;
+}
+.title:hover{
+    color: #ff69b4;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+/* Home.css */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.pagination button {
+  margin: 0 10px;
+}
+
+.pagination span {
+  font-size: 16px;
+  margin: 0 10px;
+}

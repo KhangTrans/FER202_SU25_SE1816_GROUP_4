@@ -1,0 +1,84 @@
+/* Animation chung */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes zoomIn {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Áp dụng cho tiêu đề */
+.title {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Pacifico', cursive;
+  animation: fadeInUp 1s ease;
+}
+
+/* Hover đẹp hơn cho tiêu đề */
+.title:hover {
+  color: #ff69b4;
+  transition: all 0.3s ease;
+}
+
+/* Ảnh có hiệu ứng khi hiện ra và hover */
+img {
+  width: 100%;
+  border-radius: 20px;
+  animation: zoomIn 0.8s ease;
+  transition: transform 0.3s ease;
+}
+
+img:hover {
+  transform: scale(1.05);
+}
+
+/* Nội dung mượt mà */
+p {
+  text-align: start;
+  animation: fadeIn 1s ease;
+}
+
+/* Nút phân trang */
+.pagination button {
+  margin: 0 10px;
+  transition: all 0.2s ease;
+  transform: scale(1);
+}
+
+.pagination button:hover {
+  transform: scale(1.2);
+  color: #ff69b4;
+}
+
+.pagination span {
+  font-size: 16px;
+  margin: 0 10px;
+  animation: fadeIn 0.8s ease;
+}
+.fade-in-item {
+  animation: fadeInUp 0.6s ease;
+}
